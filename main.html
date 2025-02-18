@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task_1 Responsive-Landing-Page</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+<header class="navbar">
+    <nav>
+        <div class="logo"><span>RESPONSIVE</span> Landing Page</div>
+        <ul class="nav-menu" id="menuList">
+            <li class="home-a" ><a  href="#home">Home</a></li>
+            <li class="about-a"><a href="#about">About</a></li>
+            <li  class="services-a"><a href="#services">Services</a></li>
+            <li  class="contact-a"><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="menu-icon">
+            <i class="fa-solid fa-bars" onclick="toggleMenu()"></i>
+        </div>
+    </nav>
+    
+</header>
+
+<section id="home" class="home">
+    <div class="hero-content">
+        <h1>Welcome to Our Website</h1>
+        
+        <P>We offer unparalleled services with cutting-edge technology & a customer-centric approch, Our team is committed to helping your business in a digital world.</P>
+      
+    </div>
+</section>
+
+<section id="about" class="about">
+    <h2>About Us</h2>
+    <p>We are dedicated to providing the best solutions for our clients in field of  developement in various aspects.</p>
+</section>
+
+<section id="services" class="services">
+    <h2>Our Services</h2>
+    <div class="service-grid">
+        <div class="service-item">
+            <h3>Web Development</h3>
+            <p>We build responsive, modern websites with excelent visual/graphical interface with more interactive </p>
+        </div>
+        <div class="service-item">
+            <h3>App Development </h3>
+            <p>Our mobile apps are designed to deliver seamless experiences on both Android & IOS platforms.</p>
+        </div>
+        <div class="service-item">
+            <h3>Digital Marketing</h3>
+            <p>With targeted strategies, we help your business reach a wider audience through effective SEO, PPC, & social meadia marketing.</p>
+        </div>
+    </div>
+</section>
+<section id="contact" style="padding-top: 250px;">
+    <h2>Contact Us</h2>
+    <form class="contact-form">
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Your Email" required>
+        <textarea placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+
+<footer>
+    <p>© 2025 MyWebsite. All Rights Reserved.</p>
+</footer>
+<script src="script.js"></script>
+<script src="https://kit.fontawesome.com/bdd4551caa.js" crossorigin="anonymous"></script>
+</body>
+</html>
