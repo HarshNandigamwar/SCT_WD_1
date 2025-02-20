@@ -1,8 +1,8 @@
-## SCT_WD_1
+##      SCT_WD_1
 
 # ✨ Interactive Navigation Menu
 
-This project is an interactive navigation menu that changes color when hovering over a menu item. It has a fixed position, ensuring visibility on all pages. This project was developed as part of my Frontend Development internship at Skillcraft Technology.
+This project is an interactive navigation menu that changes color when hovering over a menu item. It has a fixed position, ensuring visibility on all pages. This project was developed as part of my Frontend Development internship at SkillcraftTechnology.
 
 ## 🚀 Features
 
@@ -16,5 +16,4 @@ This project is an interactive navigation menu that changes color when hovering 
 *   **CSS3:** For styling the menu, including colors, fonts, layout, and the hover effects.
 *   **JavaScript:** For interactivity and dynamic behavior, potentially used for more complex menu interactions or responsiveness adjustments.
 
-## Repository Name
 
