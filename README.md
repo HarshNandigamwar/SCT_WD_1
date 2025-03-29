@@ -13,7 +13,7 @@ This project is an interactive navigation menu that changes color when hovering 
 ## 💻 Technologies Used
 
 *   **HTML5:** For structuring the content and creating the menu elements.
-*   **CSS3:** For styling the menu, including colors, fonts, layout, and the hover effects.
+*   **Tailwind CSS:** For styling the menu, including colors, fonts, layout, and the hover effects.
 *   **JavaScript:** For interactivity and dynamic behavior, potentially used for more complex menu interactions or responsiveness adjustments.
 
 
