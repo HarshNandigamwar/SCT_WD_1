@@ -2,7 +2,7 @@
 
 # ✨ Interactive Navigation Menu
 
-This project is an interactive navigation menu that changes color when hovering over a menu item. It has a fixed position, ensuring visibility on all pages. This project was developed as part of my Frontend Development internship at SkillcraftTechnology.
+This project is an interactive navigation menu that changes color when hovering over a menu item. It has a fixed position, ensuring visibility on all pages. This project was developed as part of my Frontend Development internship at #SkillcraftTechnology.
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ This project is an interactive navigation menu that changes color when hovering 
 ## 💻 Technologies Used
 
 *   **HTML5:** For structuring the content and creating the menu elements.
-*   **Tailwind CSS:** For styling the menu, including colors, fonts, layout, and the hover effects.
+*   **CSS3:** For styling the menu, including colors, fonts, layout, and the hover effects.
 *   **JavaScript:** For interactivity and dynamic behavior, potentially used for more complex menu interactions or responsiveness adjustments.
 
 
